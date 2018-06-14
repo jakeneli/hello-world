@@ -1,2 +1,4 @@
 # hello-world
-first example
+First example
+
+This is my first example in GitHub.
